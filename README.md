@@ -1,9 +1,7 @@
 # Recommendations with IBM
 
-**Introduction**
+**Introduction**:
 For this project I analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them about new articles I thought they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
-
-![IBM Studio]({{site.baseurl}}/https://classroom.udacity.com/nanodegrees/nd025/parts/fda1a44f-51b3-4093-8ee3-9e9a23e3bf81/modules/6700571c-0392-4c93-9549-525bc4865541/lessons/ed510bc1-30c8-42a0-9849-46d44291916f/concepts/b18d9903-a776-4e25-bbca-70109fa2f754#)
 
 **I. Exploratory Data Analysis**
 
